@@ -24,7 +24,7 @@ Java Swingを使用して作成したシンプルなデスクトップ用リア�
 ## 🌐 APIキーを設定
 このアプリを実行するには、**OpenWeatherMap APIキー** が必要です。
 
-1. [OpenWeatherMapのAPIキー取得ページ](https://home.openweathermap.org/api_keys) から無料のAPIキーを取得
+1. [OpenWeatherMapのAPIキー取得ページ](https://home.openweathermap.org/api_keys)から無料のAPIキーを取得
 2. `WeatherApp.java` の `API_KEY` に設定
 
 ```java
