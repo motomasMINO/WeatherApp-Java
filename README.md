@@ -46,10 +46,8 @@ private static final String API_KEY = "あなたのAPIキー";
    git clone https://github.com/motomasMINO/WeatherApp-Java.git
 
    cd WeatherApp-Java
-3. **コンパイル & 実行**
+3. **アプリ起動**
    ```sh
-   javac -cp "lib/*" -d out src/*.java
-
    java -cp "out;lib/*" App
    ```
    ✅ Mac/Linux の場合: out;lib/* → "out:lib/*" に変更
