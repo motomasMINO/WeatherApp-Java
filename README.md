@@ -57,7 +57,7 @@ private static final String API_KEY = "あなたのAPIキー";
 
 ## 📧 お問い合わせ
 
-- **Github: motomasMINO**
+- **GitHub: motomasMINO**
 
 - **Email: yu120615@gmail.com**
 
